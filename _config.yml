@@ -39,7 +39,7 @@
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
- gems: [jekyll-paginate]
+# plugins: [jekyll-paginate]
 
 
 
@@ -56,7 +56,7 @@
 
 
 # 评论系统
- Disqus（https://disqus.com/）
+#Disqus（https://disqus.com/）
  disqus_username: daaahai
 
 # Gitalk
@@ -113,4 +113,4 @@
 #     }
 # ]
 
- theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman

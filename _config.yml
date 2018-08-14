@@ -3,7 +3,7 @@
  SEOTitle: 白里泛红 | Daaahai
  header-img: img/post-bg-desk.jpg
  email: lifanhong.me@gmail.com
- description: "A Skilled Halfway Quitter 熟练的半途而废者"
+ description: "A Skilled Halfway Quitter"
  keyword: "大海, 李大海, 李范红, 白里泛红, lifanhong, daaahai, vivi3nli"
  url: "http://vivi3nli.github.io"          # your host, for absolute URL
  baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -18,8 +18,8 @@
 
 # SNS settings
  RSS: false
- weibo_username:     啊呜一口李大海
- zhihu_username:     李大海
+ weibo_username:     u/5139850315
+ zhihu_username:     lidahai
  github_username:    vivi3nli
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd

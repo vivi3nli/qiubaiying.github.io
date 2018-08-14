@@ -1,26 +1,26 @@
 # Site settings
  title: Daaahai Blog
-SEOTitle: 白里泛红 | Daaahai
-header-img: img/post-bg-desk.jpg
-email: lifanhong.me@gmail.com
-description: "A Skilled Halfway Quitter 熟练的半途而废者"
-keyword: "大海, 李大海, 李范红, 白里泛红, lifanhong, daaahai, vivi3nli"
-url: "http://vivi3nli.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/vivi3nli/vivi3nli.github.io.git" # you code repository
+ SEOTitle: 白里泛红 | Daaahai
+ header-img: img/post-bg-desk.jpg
+ email: lifanhong.me@gmail.com
+ description: "A Skilled Halfway Quitter 熟练的半途而废者"
+ keyword: "大海, 李大海, 李范红, 白里泛红, lifanhong, daaahai, vivi3nli"
+ url: "http://vivi3nli.github.io"          # your host, for absolute URL
+ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+ github_repo: "https://github.com/vivi3nli/vivi3nli.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "This is the sidebar."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+ sidebar: true                           # whether or not using Sidebar.
+ sidebar-about-description: "This is the sidebar."
+ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
-RSS: false
-weibo_username:     啊呜一口李大海
-zhihu_username:     李大海
-github_username:    vivi3nli
+ RSS: false
+ weibo_username:     啊呜一口李大海
+ zhihu_username:     李大海
+ github_username:    vivi3nli
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -30,16 +30,16 @@ github_username:    vivi3nli
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
-permalink: pretty
-paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+ permalink: pretty
+ paginate: 10
+ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+ anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
+ gems: [jekyll-paginate]
 
 
 
@@ -48,9 +48,9 @@ gems: [jekyll-paginate]
 # replace redcarpet to kramdown,
 # although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
 # document: http://jekyllrb.com/docs/configuration/#kramdown
-markdown: kramdown
-highlighter: rouge
-kramdown:
+ markdown: kramdown
+ highlighter: rouge
+ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 
@@ -74,25 +74,25 @@ kramdown:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: c4498fe4623b11ef44faf2cb41691a36
+ ba_track_id: c4498fe4623b11ef44faf2cb41691a36
 
 # Google Analytics
-ga_track_id: 'UA-123906415-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ ga_track_id: 'UA-123906415-1'            # Format: UA-xxxxxx-xx
+ ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
 
 
 # Featured Tags
-featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+ featured-tags: true                     # 是否使用首页标签
+ featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
 
 # Progressive Web Apps
-chrome-tab-theme-color: "#000000"
-service-worker: true
+ chrome-tab-theme-color: "#000000"
+ service-worker: true
 
 
 
@@ -113,4 +113,4 @@ service-worker: true
 #     }
 # ]
 
-theme: jekyll-theme-cayman
+ theme: jekyll-theme-cayman

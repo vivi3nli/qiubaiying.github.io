@@ -3,7 +3,7 @@
  SEOTitle: 白里泛红 | Daaahai
  header-img: img/post-bg-desk.jpg
  email: lifanhong.me@gmail.com
- description: "A Skilled Halfway Quitter"
+ # description: "A Skilled Halfway Quitter"
  keyword: "大海, 李大海, 李范红, 白里泛红, lifanhong, daaahai, vivi3nli"
  url: "http://vivi3nli.github.io"          # your host, for absolute URL
  baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
